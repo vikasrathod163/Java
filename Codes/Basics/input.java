@@ -14,7 +14,7 @@ public class input {
         b = sc.nextFloat();
         System.out.print("\nEnter Your Name : ");
         c = sc.next();
-
+        sc.close();
         System.out.println("Int : "+a+"\nFloat : "+b+"\nString : "+c);
 
     }

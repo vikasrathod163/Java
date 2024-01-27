@@ -20,6 +20,7 @@ public class arithmetic {
         int mul = n1*n2;
         int div = n1/n2;
 
+        sc.close();
         System.out.println("SUM : "+sum+"\nSUB : "+sub+"\nMUL : "+mul+"\nDIV : "+div);
     }
 }
