@@ -1,10 +1,8 @@
-package Java.Codes.Operators;
-
 import java.util.Scanner;
 
-public class arithmetic {
+public class Arithm {
     public static void main(String[] args) {
-
+        
         Scanner sc = new Scanner(System.in);
 
         int n1;

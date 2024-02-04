@@ -1,9 +1,8 @@
-package Java.Challenges;
+package Challenges.level_1;
 
-public class Challenge_3 {
+public class PatternsWithoutLoops {
     public static void main(String[] args) {
-        /*Patterns without loops */
-
+        
         System.out.println("*");
         System.out.println("* *");
         System.out.println("* * *");

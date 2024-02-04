@@ -1,6 +1,6 @@
-package Java.Codes.Basics;
+package Codes.Basics;
 import java.util.Scanner;
-public class input {
+public class Input {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
