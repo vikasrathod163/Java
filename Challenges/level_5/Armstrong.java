@@ -1,4 +1,4 @@
-package Challenges.level_5;
+package level_5;
 
 import java.util.Scanner;
 

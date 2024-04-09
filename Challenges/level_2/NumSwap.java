@@ -1,4 +1,4 @@
-package Challenges.level_2;
+package level_2;
 
 public class NumSwap {
     public static void main(String[] args) {

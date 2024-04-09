@@ -1,4 +1,5 @@
-package Challenges.level_6;
+package level_6;
+
 
 public class MinMaxEleFromArray {
 

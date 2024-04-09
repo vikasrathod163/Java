@@ -1,4 +1,4 @@
-package Challenges.level_5;
+package level_5;
 
 public class LCM {
 

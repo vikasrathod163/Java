@@ -1,4 +1,4 @@
-package Challenges.level_3;
+package level_3;
 
 import java.util.Scanner;
 

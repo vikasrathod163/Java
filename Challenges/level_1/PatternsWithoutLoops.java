@@ -1,4 +1,4 @@
-package Challenges.level_1;
+package level_1;
 
 public class PatternsWithoutLoops {
     public static void main(String[] args) {
